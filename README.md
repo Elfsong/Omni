@@ -1,2 +1,3 @@
-# Omni
- Omniscient and Omnipotent
+# 🌟 Omni 
+Omniscient and Omnipotent
+
