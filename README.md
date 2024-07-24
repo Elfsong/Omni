@@ -1,0 +1,2 @@
+# Omni
+ Omniscient and Omnipotent
