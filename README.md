@@ -1,6 +1,8 @@
 # 🌟 Omni 
 ![Omniscient and Omnipotent](src/resource/img/Omni_logo.png "Omniscient and Omnipotent")
 
+![Omniscient Example](src/resource/img/example.png "Omni Example")
+
 Omni is powered by 'Chain-of-Thought Improves Text Generation with Citations in Large Language Models'.
 
 ## Preparation
