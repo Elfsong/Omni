@@ -3,7 +3,7 @@
 
 ![Omniscient Example](src/resource/img/example.png "Omni Example")
 
-Omni is powered by 'Chain-of-Thought Improves Text Generation with Citations in Large Language Models'.
+> Omni is powered by the AAAI Oral paper 'Chain-of-Thought Improves Text Generation with Citations in Large Language Models'.
 
 ## Preparation
 ```shell
